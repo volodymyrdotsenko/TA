@@ -1,0 +1,57 @@
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Barlow Light'), local('Barlow-Light'), url(http://web.archive.org/web/20200810101316im_/https://fonts.gstatic.com/s/barlow/v4/7cHqv4kjgoGqM7E3p-ks51op.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Barlow Regular'), local('Barlow-Regular'), url(http://web.archive.org/web/20200810101316im_/https://fonts.gstatic.com/s/barlow/v4/7cHpv4kjgoGqM7E_DMs8.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Barlow Medium'), local('Barlow-Medium'), url(http://web.archive.org/web/20200810101316im_/https://fonts.gstatic.com/s/barlow/v4/7cHqv4kjgoGqM7E3_-gs51op.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Barlow SemiBold'), local('Barlow-SemiBold'), url(http://web.archive.org/web/20200810101316im_/https://fonts.gstatic.com/s/barlow/v4/7cHqv4kjgoGqM7E30-8s51op.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Barlow Bold'), local('Barlow-Bold'), url(http://web.archive.org/web/20200810101316im_/https://fonts.gstatic.com/s/barlow/v4/7cHqv4kjgoGqM7E3t-4s51op.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 800;
+  src: local('Barlow ExtraBold'), local('Barlow-ExtraBold'), url(http://web.archive.org/web/20200810101316im_/https://fonts.gstatic.com/s/barlow/v4/7cHqv4kjgoGqM7E3q-0s51op.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 10:13:16 Aug 10, 2020 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 08:53:54 Sep 19, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 656.497
+  exclusion.robots: 0.062
+  exclusion.robots.policy: 0.054
+  cdx.remote: 0.045
+  esindex: 0.008
+  LoadShardBlock: 609.708 (3)
+  PetaboxLoader3.datanode: 365.367 (5)
+  load_resource: 440.57 (2)
+  PetaboxLoader3.resolve: 121.443 (2)
+*/
